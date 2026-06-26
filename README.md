@@ -1,9 +1,5 @@
 # github-4-letter-usernames
-a list of 4 letter github usernames ive gathered.
 
+**moved to [gh-name-check](https://github.com/epwv/gh-name-check).**
 
-i have roughly 3k untested usernames, which i will be testing when i can
-
-
-
-
+this repo is archived. all future development happens at the new repo.
